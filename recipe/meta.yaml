@@ -1,4 +1,4 @@
-{% set version = "0.3.1" %}
+{% set version = "0.3.3" %}
 
 package:
   name: tardigrade_balance_equations
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://github.com/UCBoulder/tardigrade_balance_equations/archive/refs/tags/{{ version }}.tar.gz
-  sha256: bb5d08784277bd03e1870ab0546a2511734a3a903b4f97352bb9c5cd707f6dce
+  sha256: f0387223b4663bb8e140b9a56d2c00460db0c4f10a9cccb2c6fb633bc57c3f53
 
 build:
   number: 0
